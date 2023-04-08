@@ -144,3 +144,22 @@ ${answers.email}
     }
   });
 }
+
+//USER INTERACTIONS/INITIALIZATION
+inquirer
+  .prompt(questions)
+  /* Pass your questions in here */
+
+  .then((answers) => {
+    console.log(answers);
+    const markDown = generateMarkDown(answers);
+
+    // Use user feedback for... whatever!!
+  })
+  .catch((error) => {
+    if (error.isTtyError) {
+      console.log(error.isTtyError);
+    } else {
+      console.log("Something else went wrong");
+    }
+  });
