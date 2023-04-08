@@ -112,8 +112,7 @@ ${answers.installation}
 ${answers.usage}    
 
 ## Screenshot <a id="screenshot"></a>
-//INSERT LINK TO SCREENSHOT BELOW!
-[Screenshot of webpage](./images/screenshot.png)
+![Screenshot of webpage](./images/screenshot.png)
 
 ## Testing <a id="testing"></a>
 
