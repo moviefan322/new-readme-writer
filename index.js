@@ -90,14 +90,14 @@ function generateMarkDown(answers) {
 
 ## Table of Contents
 
-### [Description](#description)
-### [Installation](#installation)
-### [Usage](#usage)
-### [Screenshot](#screenshot)
-### [Testing](#testing)
-### [Contributors](#contributors)
-### [License](#license)
-### [Questions](#questions)
+1. [Description](#description)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [Screenshot](#screenshot)
+5. [Testing](#testing)
+6. [Contributors](#contributors)
+7. [License](#license)
+8. [Questions](#questions)
 
 ## Description <a id="description"></a>
     
