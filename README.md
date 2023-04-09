@@ -13,15 +13,17 @@
 
 ## Description <a id="description"></a>
 
-This is a super cool updated README writer! It does all the boring stuff for you
+This is a super cool README writer!
 
 ## Installation <a id="installation"></a>
 
-Simply clone my repo from github and open it in VS code!
+Clone my code from github, then open it in VS Code
 
 ## Usage <a id="usage"></a>
 
-Once it is open in VS code, run an 'npm i' and type 'node index' into your CLI!
+Simply enter 'npm i' and 'node index' in your VS Code CLI.
+Here is a video demonstrating how the program is used:
+https://drive.google.com/file/d/11bvtX_mKc-qpUeBu11x--KontWL4fvph/view
 
 ## Screenshot <a id="screenshot"></a>
 
@@ -29,7 +31,7 @@ Once it is open in VS code, run an 'npm i' and type 'node index' into your CLI!
 
 ## Testing <a id="testing"></a>
 
-Try it for yourself! Enter node index into your CLI and watch it generate a super cool README!
+Run the program, answer the questions, and check out your shiny brand new README
 
 ## Contributors <a id="contributors"></a>
 
@@ -37,7 +39,7 @@ All me, baby!
 
 ## License <a id="license"></a>
 
-This is a super cool updated README writer! It does all the boring stuff for you
+This is a super cool README writer!
 
 ## Questions <a id="questions"></a>
 
